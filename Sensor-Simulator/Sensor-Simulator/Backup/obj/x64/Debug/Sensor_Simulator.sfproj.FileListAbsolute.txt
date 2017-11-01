@@ -1,0 +1,1 @@
+C:\repos\IgniteNZ\IotSession\Sensor-Simulator\Sensor-Simulator\obj\x64\Debug\Sensor_Simulator.sfprojResolveAssemblyReference.cache

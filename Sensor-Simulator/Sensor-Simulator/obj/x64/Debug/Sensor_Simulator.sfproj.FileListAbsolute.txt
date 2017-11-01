@@ -1,0 +1,3 @@
+C:\repos\IgniteNZ\IotSession\Sensor-Simulator\Sensor-Simulator\obj\x64\Debug\Sensor_Simulator.sfprojResolveAssemblyReference.cache
+C:\repos\IgniteNZ\IotSession\Sensor-Simulator\Sensor-Simulator\bin\Debug\Sensor_Simulator.config
+C:\repos\IgniteNZ\IotSession\Sensor-Simulator\Sensor-Simulator\obj\x64\Debug\Sensor_Simulator.sfproj.CoreCompileInputs.cache

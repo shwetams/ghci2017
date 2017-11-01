@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{A07B5EB6-E848-4116-A8D0-A826331D98C6}") = "Sensor_Simulator", "Sensor-Simulator\Sensor_Simulator.sfproj", "{6EFD0900-8F34-45D6-BFDF-1C3F63A91BFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SendTemperature", "SendTemperature\SendTemperature.csproj", "{B6EE0D6C-BF60-43D5-8753-3C5948312B4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EFD0900-8F34-45D6-BFDF-1C3F63A91BFB}.Debug|x64.ActiveCfg = Debug|x64
+		{6EFD0900-8F34-45D6-BFDF-1C3F63A91BFB}.Debug|x64.Build.0 = Debug|x64
+		{6EFD0900-8F34-45D6-BFDF-1C3F63A91BFB}.Debug|x64.Deploy.0 = Debug|x64
+		{6EFD0900-8F34-45D6-BFDF-1C3F63A91BFB}.Release|x64.ActiveCfg = Release|x64
+		{6EFD0900-8F34-45D6-BFDF-1C3F63A91BFB}.Release|x64.Build.0 = Release|x64
+		{6EFD0900-8F34-45D6-BFDF-1C3F63A91BFB}.Release|x64.Deploy.0 = Release|x64
+		{B6EE0D6C-BF60-43D5-8753-3C5948312B4A}.Debug|x64.ActiveCfg = Debug|x64
+		{B6EE0D6C-BF60-43D5-8753-3C5948312B4A}.Debug|x64.Build.0 = Debug|x64
+		{B6EE0D6C-BF60-43D5-8753-3C5948312B4A}.Release|x64.ActiveCfg = Release|x64
+		{B6EE0D6C-BF60-43D5-8753-3C5948312B4A}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		EnterpriseLibraryConfigurationToolBinariesPathV6 = packages\EnterpriseLibrary.TransientFaultHandling.6.0.1304.0\lib\portable-net45+win+wp8
+	EndGlobalSection
+EndGlobal
